@@ -15,6 +15,5 @@ You can view the project on [GitHub Pages](https://github.com/Altaaan4/Movie_Web
 - **CSS3**
 
 ## Preview 👀
-Check out the following GIF to see how the project works:
 
-https://github.com/user-attachments/assets/29c7fd5c-f66f-4534-b2e6-0ab814a68920
+![Image](https://github.com/user-attachments/assets/c6bc5e0c-5396-49fc-b7d2-8cb723700cd6)
